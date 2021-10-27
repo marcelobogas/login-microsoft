@@ -5,7 +5,7 @@ Tutorial para implementação de **login da Microsoft** utilizando PHP e autenti
 ___
 
 ## Pré-Requisitos
-- Php 7.0
+- Php ^7.0
 - Composer
 
 ___
