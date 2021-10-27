@@ -1,0 +1,6 @@
+{
+    "require": {
+        "adnanhussainturki/microsoft-api-php": "^0.03.0",
+        "phpunit/phpunit": "^9.5"
+    }
+}
